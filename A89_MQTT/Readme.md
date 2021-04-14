@@ -2,4 +2,4 @@
 
 ## NodeMCU mit einem BME280-Sensor
 
-![image]()
+![image](https://github.com/frankyhub/Arduino-Beispiele_I/blob/master/A89_MQTT/Seriell.png)
