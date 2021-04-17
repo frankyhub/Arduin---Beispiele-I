@@ -3,7 +3,7 @@
 ************************************************************************************************** 
 Funktion: WEMOS D1 R2 mini MQTT Node mit BME280 
 **************************************************************************************************
-Version: 14.04.2021
+Version: 14.40.2021
 **************************************************************************************************
 Board: WEMOS D1 R2 mini
 **************************************************************************************************
@@ -36,7 +36,7 @@ ESPTCP.h
 #define WIFI_PASSWORD "xxx"
 
 // Raspberri Pi Mosquitto MQTT Broker
-#define MQTT_HOST IPAddress(192, 168, 1, 133)
+#define MQTT_HOST IPAddress(192, 168, 1, 110)
 // For a cloud MQTT broker, type the domain name
 //#define MQTT_HOST "example.com"
 #define MQTT_PORT 1883
